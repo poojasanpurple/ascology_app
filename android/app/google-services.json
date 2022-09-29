@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7791545735",
+    "project_id": "flutterastroashram",
+    "storage_bucket": "flutterastroashram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7791545735:android:08888205ab1128749c5722",
+        "android_client_info": {
+          "package_name": "com.sanpurple.astrology.ascology_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7791545735-grd65uapr852dg5hrtodjeq0ic1q21je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLd7hmk9lOlvNbb-xI9slADSRINIJOcQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7791545735-grd65uapr852dg5hrtodjeq0ic1q21je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
